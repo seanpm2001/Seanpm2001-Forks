@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🍴️ Fork information for the former Seanpm2001-forks organization, along with general fork information for @seanpm2001 on GitHub.
